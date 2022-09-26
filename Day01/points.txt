@@ -1,0 +1,269 @@
+Python
+------
+1. python is open source
+
+Guido van russum
+
+2. Desktop 			-	tkinter
+
+3. Webapp				-	Flask, Django, Pyramid
+							
+								a. REST api
+								b. MVT
+
+4. Mobile				-	Kivy
+
+5. Webcrapping 	- beatifulsoup, scrappy
+
+6. ETL					-	Extraction Transformation and Loading 
+									1. informatica
+									2. DataStage
+
+7. Data science 
+		
+	1. Data Analytics
+	2. ML
+	3. AI
+
+
+python
+------
+www.python.org
+www.activestate.com				=>	Perl, TCL / TK, NodeJS, Python
+
+
+Version 
+-------
+latest - 3.10.x
+
+
+2.x vs 3.x
+----------
+print "hello"
+
+
+print("hello")
+
+
+flavours of python
+------------------
+
+1. Cpython				-	 currently using
+
+2. Jython					-	 python - java
+
+3. Iron Python			-	 Dot net libraries
+
+
+Editors
+-------
+IDLE				-		Integrated Development Environment
+
+Notepad++ 	-
+
+pycharm	 Community Edition (open source)	-
+
+VS code Community Edition
+
+Eclipse
+
+Sublime Text
+
+jupyter notebook
+
+google colabs
+
+
+python 3.10 / 3.9
+------------------
+1. sdk
+2. IDLE		-	 Editor
+3. shell		-  interactive environment
+
+
+operators that overloaded
+-------------------------
++		-	addition, concatenation
+
+
+*		-	multiplication, print a string n number of times
+
+
+Module - imp
+method - reload
+
+import imp
+from imp import reload
+
+Coding Rules
+-------------
+
+PEP - 8
+
+Python Enhancement Proposal
+---------------------------
+
+Naming Convensions
+
+'explicit is better than implicit'
+
+
+Variables -> 		use lowercase single character, 
+							words - do not seperate words with spaces
+							instead seperate them with underscores
+
+
+Functions	->		lower case letter to create a word and 										use underscore to seperate words
+
+
+class 			->		first charater in capital, do not seperate 
+							words with underscore		- camel case or 
+							pascal case
+
+
+Method			->		lower case letter to create a word and 										use underscore to seperate words
+
+Module			->		lower case letter to create a word and 										use underscore to seperate words
+
+package		->		use a short word lower case letter to create 
+							a word and no underscore to seperate words
+
+
+Code Layout 
+-----------
+'beatiful is better than ungly'
+
+class Firstclass:
+	pass
+
+
+class Secondclass:
+	pass
+
+
+class Thirdclass:
+	pass
+
+
+Indentation
+-----------
+'there should be one and preferably only one obviuos way to do it'
+
+
+
+def fun():
+	print("this code belongs to function fun")
+
+	for i in range(1, 11):
+		print("this code belongs to for loop")
+		
+		if i % 2 == 0:
+			print("this code belongs to if condition")
+			print(i)
+
+		print("this code belongs to for loop")
+
+
+	print("this code belongs to function fun")
+
+print("this code belongs to __main__ module")
+
+
+
+if (x > 10 and
+	 x < 15):
+	 print("Hello World")
+
+
+def fun(arg1, arg2,
+		  arg3, arg4)
+	
+	return arg1 + arg2 + arg3 + arg4
+
+
+mat3x3 = [
+	1, 2, 3
+	4, 5, 6
+	7, 8, 9
+]
+
+
+Comments
+--------
+'if the implementation is hard to explain, its a bad idea'
+
+
+print(a * b)			# the prod of a and b are found
+
+
+print("hello world")
+print("hello world")
+
+# print("hello world")
+# print("hello world")
+# print("hello world")
+# print("hello world")
+# print("hello world")
+
+
+Document String
+---------------
+"this is a single line doc string"
+
+
+"""
+this is a multi line
+		
+		doc
+
+				string
+"""
+
+"" or '' are the in python 
+
+
+def fun():
+
+	"""
+		function fun()
+		
+		this function does not take any argument and just displays Hello World
+		
+	"""
+	
+	print("Hello World")
+
+
+print(fun.__doc__)
+
+help(fun)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+perl
+----
+2001 - 5.6 / 5.8		=> Parrot
