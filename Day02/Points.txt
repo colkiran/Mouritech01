@@ -1,0 +1,147 @@
+WHITE SPACES IN EXPRESSIONS AND STATEMENTS
+
+'sparse better the dense'
+
+a=10
+b=20
+c=a+b
+
+crtl + shift + alt + L      =>  implement formatting with white spaces
+
+1. pip install pycodestyle
+2. pip install flake8
+3. pip install black
+
+
+Program vs Script
+-----------------
+
+Programs
+--------
+1. compiled =>  source code  -> object code  ->  byte code (exe file)
+
+2. Static Data type -> data type is assigned during compilation time
+int i;
+i = 100
+
+
+Scripts
+--------
+1. interpreted  -   line by line execution
+
+2. Data types are dynamic -> data types are assigned during runtime
+i = 100
+i = 'hello'
+
+
+Primitive Datatypes in python
+-----------------------------
+1. Numbers
+    a. integers
+    b. float
+    c. complex numbers
+
+2. Strings
+3. Boolean
+
+5 -  0101
+3 -  0011
+     0111   -   7
+
+5 -  0101
+3 -  0011
+     0001
+
+5 -  0101
+3 -  0011
+     0110
+
+0101  = 1010
+1000  = 10000
+
+0101  -> 10100
+0101  -> 0010
+
+0000  ->  1111          = -1
+1111  ->  0000
+
+0101  ->  1010          = -6
+
+Loops and Control Structures
+----------------------------
+Control Structures
+-------------------
+1. if condition
+
+2.x
+---
+numbers = input
+strings = raw_input
+
+3.x
+---
+string = input
+
+Loops
+-----
+1. for loop
+2. while loop
+
+range(intial_val, final_val, incr_val)
+
+PRINT
+-----
+print(data, sep=, end="\n")
+
+
+Problems
+--------
+generate this pattern
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+find the prime numbers between 150 and 50 and also print the count of it.
+
+Strings
+-------
+strings are immutable
+
+
+class Player:
+
+    def __init(self, name)
+        self.name = name
+
+    #setter method
+
+p1 = Player("Sachin")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
