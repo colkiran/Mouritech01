@@ -1,0 +1,29 @@
+Strings
+-------
+Strings are immutable
+
+==================================================
+Item                                         Price
+==================================================
+Apples                                        0.40
+Pears                                         0.50
+Cantaloupes                                   1.92
+Dried Apricots (16 oz.)                       8.00
+Prunes (4 lbs.)                              12.00
+==================================================
+
+Data Structures
+---------------
+1. lists
+2. dictionaries
+3. tuples
+4. set
+
+lists - similar to arrays
+
+dictionary - hashes or associative arrays
+
+tuples - immutable list
+
+sets - {collection}
+
