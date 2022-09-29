@@ -1,0 +1,46 @@
+Data Structures
+---------------
+1. Lists
+2. Dictionary
+3. Tuples
+4. Set
+
+List -> arrays
+--------------
+
+What is an array
+----------------
+1. collection of homogenous data
+2. memory allocation is contigious
+
+Lists
+-----
+lists are a collection of hetrogenous data
+memory allocation is not contigious
+lists are mutable
+lists are subscriptable
+lists are enclosed in []
+
+List Manipulation Functions
+----------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+add values into a list
+----------------------
+append
+extend
+insert
+
+remove values from a list
+-------------------------
+pop
+remove
+clear
+
+
+
+
+
+
+
+
