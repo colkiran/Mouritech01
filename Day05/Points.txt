@@ -1,0 +1,42 @@
+
+Magic Matrix
+------------
+
+n (n ** 2 + 1) / 2
+
+3 x 3 = >  n = 3
+
+Lists
+------
+sort, reverse
+
+Sort
+----
+1. sort        => sorts the original list and does not return anything
+2. sorted      => takes a copy of the list and sorts the list and then returns it
+
+
+Dictionary
+----------
+1. associative array or hashes
+2. unordered collection
+3. mutable
+4. {k: v, k: v, k: v, ....}
+
+Dictionary Manipulation functions
+---------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuple
+-----
+tuple is a immutable list -> count, index
+tuples are enclosed in {}
+
+set
+---
+1. elements of a set is always unique
+2. sets are unordered collection
+3. sets are not subscriptable
+4. set are mutable
+5. frozen sets are immutable
