@@ -1,0 +1,58 @@
+
+set
+---
+1. elements of a set is always unique
+2. sets are unordered collection
+3. sets are not subscriptable  - no indexing
+4. set are mutable
+5. frozen sets are immutable
+
+
+tuples are immutable lists
+immutable dictionry ?
+
+
+Functions
+---------
+1. call a function
+2. take args
+3. return values
+4. variable length args
+5. how many values a function returns
+6. doc strings
+7. scope of a variable
+8. lambdas
+9. comprehensions
+10. decorator
+
+python supports recursive calls
+-------------------------------
+1. find the factorial of a number
+2. find fibanocci series
+
+lambdas
+-------
+anonymous functions
+single expression
+
+result_of_expression = lambda arg1, arg2, arg3...: expression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
