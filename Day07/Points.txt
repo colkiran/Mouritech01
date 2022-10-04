@@ -1,0 +1,37 @@
+
+Lambdas
+-------
+
+comprehensions
+--------------
+List and Dictionary comprehensions -> iterating through a collection using lambda syntaxes
+
+
+Scope of a variable
+-------------------
+1. global       - variable declared outside the function is global
+2. local        - variable declared inside the function is local
+3. non local
+
+Decorators
+----------
+
+def dbconnect()
+
+
+
+@dbconnect
+def updateRec(Amt, Account):
+    sql
+---------------------------------
+
+def swap
+
+@swap
+def sub(x, y):
+    return x - y
+
+sub(10, 4)
+sub(5, 15)      => -10
+
+" :tiger: "
