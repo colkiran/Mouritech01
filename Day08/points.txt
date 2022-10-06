@@ -1,0 +1,72 @@
+
+write a hof which takes a function as an argument and display all the arguments passed to the function, the function can take zero or more arguments.
+
+def fun(a, b, c, d, e)
+
+-----------------------------------------------------------------------
+
+def diff(x, y):
+    return x - y
+
+write a decorator that will always result a positive value from diff
+
+diff(30, 10)        => 20
+diff(10, 30)        => -20  => 20
+
+-----------------------------------------------------------------------
+
+File handling
+-------------
+Generic Concepts
+
+CSV file
+Json File
+XML file
+Excel file
+Database (mysql, sqlite3)
+Pdf
+
+sqlalchemy => ORM
+
+File handling
+-------------
+
+
+text files =>   ascii format
+
+doc or docx => encrypted ->
+
+open a file
+    a. read     - mode -> r - only read the contents of the file (default mode)
+
+    b. write    - mode -> w - only write data into a file
+                              if the file is already present, delete the contents of the file and strart writing newly into the file
+                              if the file is not present then create a new file and write into the file
+
+    c. append   -mode -> a -  only write into the file
+                              if the file is already present, write the contents into the file without disturbing the previous contents
+                              if the file is not present then create a new file and write into the file
+
+
+Mode - Read
+-----------
+1. read
+    a. reads the entire content of the file
+    b. reads the data that is mentioned in bytes
+
+2. readline
+    a. read oneline at a time and store it in the buffer
+
+3. readlines
+
+
+move the file handle from one place to another using
+
+seek(offset, whence)
+
+offset => no of bytes
+
+whence =>      0    - BOF
+               1    - CP
+               2    - EOF
+
