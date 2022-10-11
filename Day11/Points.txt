@@ -1,0 +1,19 @@
+OOPS
+----
+1. class
+2. object
+
+a. inheritance
+b. polymorphism
+c. Encapsulation
+d. abstraction
+
+
+Debit Cards
+-----------
+shopping card               - 40000 per day
+petrol card                 - 40000 per day
+
+Gold                        - 1 lakh per day
+
+Platinum card               - 2 lakhs per day 
