@@ -1,0 +1,56 @@
+operator overloading
+--------------------
+Magic Methods
+-------------
+
++ => __add__()
+
+Magic Methods for all arithmetic operators
+1. +
+2. -
+3. *
+4. /
+5. //
+
+
+OOPS
+----
+Recap
+-----
+1. class
+2. object
+3. isinstance
+4. __init__
+5. self
+7. class attribute
+8. @class method
+9. cls
+10. __str__
+11. __eq__, __gt__, @total_ordering (comparison operators)
+12. __add__, __sub__....
+13. __iter__, __append__
+14. __setitem__, __getitem__
+15. private variables __
+16. __dict__
+17. property, @poperty - setter, getter, deleter
+
+
+Inheritance
+-----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
