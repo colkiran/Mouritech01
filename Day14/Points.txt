@@ -1,0 +1,75 @@
+
+1. python checks for .pth file in the root directory (where python.exe is present)
+
+2. if the file is present it will include this path in library path
+
+3. if the module is found then converts the module into its byte code and then imports the module into the current file
+
+4. from the second time that we execute the code, python will do a small comparison between the .py and .pyc files, it expects the .pyc file to have the latest date and time of modification compared to .py file else it will convert the .py file to .pyc file assuming that there were changes in the source code.
+
+Regular Expressions
+--------------------
+*   - series of characters
+?   - single character
+
+dir *.txt   => all files with an extension of .txt
+
+dir ?a*.txt => all files with second character as 'a' and the extension is txt
+
+for futher details you can reach me on 23238482 between 1 and 5 pm
+for futher details you can reach me on 23238482 between 1 and 5 pm
+for futher details you can reach me on 23238482 between 1 and 5 pm
+for futher details you can reach me on 23238482 between 1 and 5 pm
+for futher details you can reach me on 23238482 between 1 and 5 pm
+for futher details you can reach me on 23238482 between 1 and 5 pm
+
+\d
+
+Regular Expression
+------------------
+.       -   single character (any character alphabetic, numeric, special characters)
+
+^       - to match at the begning of the string
+$       - to match at the end of the string
+
+*       - zero or more occrance of a character
+?       - zero or one occurance of a character
++       - one or more occurance of a character
+{n}     - exactly n times
+{n, }   - min n times and max any number of times
+{n, m}  - min n times and max m times
+[]      - character class
+()      - grouping
+|       - alternation or OR oerator
+\       - supress the regular expresion character
+
+import re
+
+--------------------------------------------------------------
+
+license number
+--------------
+LCNO-KAR-05-2004-8934
+
+
+LCNO - no changes -LCNO
+
+KAR - KER, TND, APN, TEL, MAH
+
+05 - RTO - 05 - Jaynagar bangalore - 01 - 73
+
+2004 - year - not less than 2000
+
+license number - 8934 - no 0000
+
+st = "LCNO-KAR-73"
+
+res = re.search(r'LCNO-()-',st)
+
+
+= re.search(r'LCNO-(KAR|KER|TND|APN|TEL|MAH)-([0-6][1-9]|[1-7][0-3])-'
+                r'([2-9][0-9]{3})-(?!0000)([0-9]{4})', ST)
+
+
+
+
