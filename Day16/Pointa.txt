@@ -1,0 +1,27 @@
+
+Logging and Exception
+---------------------
+Logging module
+--------------
+5 different levels
+------------------
+10. debug - diagnosing the problem
+20. info - used to confirm that code is working as expected
+30. warning - something unexpected happened
+40. error - there is serious problem in the code
+50. critical - critical error indicating the program may not be able to                 continue
+
+level = debug           >= 10
+level = Warning         >= 30
+
+StreamHandlers      -   put the output on the screen
+FileHandlers        -   write the output on to the file
+
+Exceptions
+----------
+import sys
+sys.ex_info()
+
+Date time
+---------
+
