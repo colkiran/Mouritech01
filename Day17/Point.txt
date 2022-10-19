@@ -1,0 +1,12 @@
+Date Time
+----------
+
+sql alchemy
+-----------
+ORM = Object Relation Mapping
+
+
+Mysql
+------
+without password for db
+engine = create_engine("mysql+pymysql://root@localhost/players", echo=True)
