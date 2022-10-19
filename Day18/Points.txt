@@ -1,0 +1,8 @@
+
+1. update of records
+2. deleting records
+
+
+Threads
+-------
+Thread in one of the unit of process
