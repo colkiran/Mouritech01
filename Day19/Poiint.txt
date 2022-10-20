@@ -1,0 +1,12 @@
+
+Opps
+----
+1. intance methods      -   object as arg,
+2. class methods        -   class_name as arg,Factory pattern
+3. static methods       -   does not take any arg, utility
+
+1. iterators    -   
+2. generators
+3. coprehensions
+4. coroutines
+
