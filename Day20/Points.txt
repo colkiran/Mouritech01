@@ -1,0 +1,34 @@
+Django - lawrence Jonoural World in 2003
+
+Initail release for public was in 2005
+
+latest version of Django
+
+django is open source web development Frame work for Python based on (MVC pattern)
+
+
+what happens when we type www.google.com
+----------------------------------------
+
+MVC pattern
+-----------
+1. Django
+2. Flask - mvc-flask
+3. Pyramid
+
+Django templates -      jinja syntax (Flask)
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
