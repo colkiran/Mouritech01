@@ -1,0 +1,130 @@
+[14:08] Suganya (Guest)
+    
+
+
+
+Abinaya Premkumar
+
+Arunkumar Arjunan
+
+Arunkumar Muthu
+
+Ganesh Dheenadayalan
+
+Keerthanapriya T Jayaprakash
+
+Kesavan Ramasamy
+
+Kishore S
+
+Mahalakshmi Krishnan
+
+Mohammad Atif ur rehman Atif (Atif Atif)
+
+Mohammed Adnan K
+
+Mohana Sakthi Jayapandian
+
+Nilesh Nayan
+
+Nishok Natarajan Mahalingam
+
+Partha Sasmal
+
+pavan kumar mangavalli (mangavalli kumar)
+
+Praveen Kumar Thangamariappan
+
+Praveen Manoharan
+
+PREETHA G
+
+Rishikumar S
+
+Sagar Kaushik
+
+Saravanakumar Periyasamy
+
+Surya Raghu
+
+Tejus P M
+
+Venkata Tharun kumar Bachu
+
+
+
+
+We have roughly around 25 PAX we will start by 2:15 PM sharp
+
+
+Data Structures
+---------------
+
+	1. lists
+	2. dictionary
+	3. tuples
+	4. sets
+
+Functions
+---------
+	1. create and call a function
+	2. pass arguments
+	3. variable length args
+	4. return values
+	5. named arguments
+	6. doc string
+	7. scope of a variable
+	8. lambdas
+	9. comprehensions - lists and dictionary	
+	10. decorator
+
+Oops
+----
+	1. classes
+	2. objects
+	3. constructor
+	4. destructor
+	5. __self__, __dict__
+	6. class variables
+	9. class methods
+	10. static methods
+	11. operator overloading	
+	12. private variable
+	13. property()
+	14. inheritance - multiple, multilevel
+	15. abstract class
+	16. polyporphism
+	17. duck types
+
+
+file handling
+-------------
+	1. read, write and append a file
+	2. csv files
+	3. json files
+	4. xml files
+	5. database files
+	6. excel files
+
+
+
+pycharm - editor 		- 
+
+python - 3.9.x			- www.python.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
