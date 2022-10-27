@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+</head>
+<body>
+  <h1> Welcome to the LOGIN PAGE </h1>
+
+  <form action="setssntime" method="post">
+    {% csrf_token %}
+      User Name : <input type="text" name="nm"> <br><br>
+      Password  : <input type="password" name="pwd"> <br><br>
+      <input type="submit" value="submit">
+  </form>
+</body>
+</html>

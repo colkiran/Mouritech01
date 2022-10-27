@@ -1,0 +1,25 @@
+
+RESTful service =>
+REST = Representational state transfer
+
+Json data => Javascript object notation
+REST API = Application programming interface
+
+
+Terminal Commands
+------------------
+1. python ./manage.py makemigrations
+
+2. python ./manage.py migrate
+
+3. python ./manage.py create superuser
+    set the username
+    set the password
+
+4. python ./manage.py runserver
+
+5. http://127.0.0.1:8000/admin
+
+6. add few products
+
+7. http://127.0.0.1:8000/products
