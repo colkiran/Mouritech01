@@ -1,0 +1,35 @@
+1. Django with two related tables
+
+Products
+--------
+Prodid (PK)
+Prodname
+Categoryid (FK)
+Prodtype
+Price
+
+Categories
+----------
+Categoryid
+Categoryname
+
+
+2. Microservices
+-----------------
+Monolithic Architecture
+-----------------------
+
+
+
+Microservices Architecture
+---------------------------
+RESTAPI - flask
+
+
+installations
+-------------
+pip install py-ms[all]
+
+
+python  - 2.1.3
+werkzeug - 2.0.0

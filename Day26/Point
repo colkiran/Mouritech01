@@ -1,0 +1,28 @@
+
+Design Pattern
+--------------
+
+def __init__(self, Name, age):
+
+
+
+1. Creational Pattern
+2. Structural Pattern
+3. Behavioral Pattern
+
+
+Creational Pattern
+------------------
+1.  Singleton Pattern
+2.  Factory Pattern
+
+Structural Pattern
+------------------
+Bridge Pattern - that lets you split large class or a set of closely related
+ classes into two seperate hierarchies - abstraction and implementation which can
+ be developed independently of each other
+
+
+
+
+
